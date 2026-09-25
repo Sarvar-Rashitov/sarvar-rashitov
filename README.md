@@ -54,177 +54,53 @@ My main areas of interest include:
 - 🚀 Startup & Product Development
 
 ---
-
 ## 💻 Engineering Stack
 
-### Programming Languages
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,cs,html,css,javascript,typescript" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,cs,html,css,javascript,typescript,django,fastapi,flask,nodejs,react,nextjs,vue,postgres,mysql,sqlite,redis,supabase,firebase,docker,nginx,linux,aws,gcp,git,github,gitlab" />
+
 </p>
 
-- Python
-- C / C++
-- C#
-- HTML5
-- CSS3
-- JavaScript
-- TypeScript
+### Languages & Development
 
----
+`Python` · `C` · `C++` · `C#` · `JavaScript` · `TypeScript` · `HTML5` · `CSS3`
 
-### Backend & Web Frameworks
+### Backend & APIs
 
-<p>
-<img src="https://skillicons.dev/icons?i=django,fastapi,flask,nodejs" />
-</p>
-
-- Django
-- Django REST Framework
-- FastAPI
-- Flask
-- REST API
-- Server-side applications
-- Database-driven web applications
-
----
+`Django` · `Django REST Framework` · `FastAPI` · `Flask` · `Node.js` · `REST API` · `Web Applications`
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue" />
-</p>
-
-- React.js
-- Next.js
-- Vue.js
-- JavaScript
-- TypeScript
-- Responsive Web Applications
-
----
+`React.js` · `Next.js` · `Vue.js` · `JavaScript` · `TypeScript` · `Responsive UI`
 
 ### Databases & Storage
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,firebase,redis" />
-</p>
+`PostgreSQL` · `MySQL` · `SQLite` · `Redis` · `Supabase` · `Firebase` · `Neon`
 
-- PostgreSQL
-- MySQL
-- SQLite
-- Redis
-- Supabase
-  - PostgreSQL
-  - Storage
-  - Authentication
-- Firebase
-- Neon Database
+### AI & LLM
 
----
+`OpenAI` · `Google Gemini` · `DeepSeek` · `Claude` · `LLM APIs` · `NLP` · `AI Agents` · `Prompt Engineering`
 
-### DevOps, Cloud & Infrastructure
+### DevOps & Cloud
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,nginx,linux,aws,gcp,git,github,gitlab" />
-</p>
+`Docker` · `Nginx` · `Linux` · `AWS EC2` · `Google Cloud` · `DigitalOcean` · `Render` · `Railway` · `Vercel` · `Netlify` · `Heroku`
 
-- Linux / CLI
-- Docker
-- Nginx
-- Git
-- GitHub
-- GitLab
-- AWS EC2
-- Google Cloud
-- DigitalOcean Droplets
-- Render
-- Railway
-- Vercel
-- Netlify
-- Heroku
-- DNS
-- CDN
-- Load Balancing
-- Horizontal Scaling
+### Infrastructure & Scalability
 
----
+`Celery` · `Redis` · `Background Jobs` · `Task Queues` · `Caching` · `Load Balancing` · `CDN` · `Horizontal Scaling` · `DNS`
 
-### Distributed Systems & Performance
+### Development Tools
 
-- Redis
-- Celery
-- Background Jobs
-- Task Queues
-- Caching
-- Load Balancing
-- Horizontal Scaling
-- CDN
-- Nginx
-- Docker-based deployment
-- Cloud infrastructure
+`Git` · `GitHub` · `GitLab` · `Cursor` · `Claude` · `Codex` · `Kiro` · `Antigravity`
 
-I focus on designing systems that can evolve from a small MVP
-into production-ready and scalable applications.
+### Integrations
 
----
+`Click` · `Payme` · `Paylov` · `Telegram Bot API` · `OAuth` · `Third-party APIs` · `Payment APIs`
 
-### Payment Systems
-
-I have experience working with payment integrations and
-production payment workflows.
-
-- Click
-- Payme
-- Paylov
-- Payment APIs
-- Payment callbacks
-- Subscription/payment flows
-- Payment verification
-
-I also have a contract with **Click** related to payment system integration.
-
----
-
-## 🤖 AI / LLM / NLP
-
-I'm actively working with modern AI technologies and integrating
-LLMs into real-world products.
-
-### LLM APIs
-
-- OpenAI
-- Google Gemini
-- DeepSeek
-- Anthropic Claude
-
-### AI Engineering
-
-- LLM API Integration
-- Prompt Engineering
-- AI Assistants
-- AI Agents
-- NLP
-- Local LLMs
-- AI-powered applications
-- AI automation
-
----
-
-## 🧠 AI Development Tools & Agents
-
-I actively use modern AI-assisted development tools to improve
-software development workflows.
-
-- Cursor
-- Claude
-- Codex
-- Kiro
-- Antigravity
-
-I use AI not as a replacement for engineering,
-but as an engineering multiplier — for research, architecture,
-development, debugging, testing and automation.
+I choose technologies based on the project's requirements, performance,
+scalability, budget and long-term goals rather than limiting development
+to a single stack.
 
 ---
 
