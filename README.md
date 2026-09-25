@@ -125,18 +125,17 @@ AI-powered education ecosystem focused on adaptive learning, gamification and pe
 
 <td width="50%" valign="top">
 
-### 🧪 Testium
+###🧪 Testium
 
-**AI-powered assessment platform**
+Software Development & Technology Company
 
 🌐 https://testium.uz
 
-Online assessment platform for mock exams, AI evaluation and learning analytics.
+A software technology company focused on building digital products, AI-powered solutions, automation systems and custom software for businesses.
 
-**Role:** Backend Developer
+**Role**: Founder & Backend Developer
 
-**Stack:** Python · Django · PostgreSQL · REST APIs · AI/LLM · Telegram · Payments · PWA
-
+**Focus**: Software Development · AI Solutions · Backend Systems · APIs · Automation · Cloud
 </td>
 </tr>
 
@@ -146,6 +145,8 @@ Online assessment platform for mock exams, AI evaluation and learning analytics.
 ### 💰 Sarf Finance
 
 **AI-powered personal finance platform**
+
+🌐 https://sarf.finance
 
 AI-driven platform for managing income, expenses and financial insights using natural language.
 
@@ -157,15 +158,15 @@ AI-driven platform for managing income, expenses and financial insights using na
 
 <td width="50%" valign="top">
 
-### 🔗 Qrtifact
+###🏛️ Qrtifact
 
-**Technology & software project**
+Digital Tourism & Historical Heritage Platform
 
-Software project focused on backend systems, APIs and production-oriented application development.
+A tourism technology project focused on discovering, exploring and digitally presenting historical monuments and cultural heritage sites.
 
-**Role:** Backend Developer
+**Role**: Backend Developer
 
-**Focus:** Backend Architecture · APIs · Databases · Production Systems
+**Focus**: Tourism Technology · Historical Heritage · Digital Experiences · Backend · APIs · Databases
 
 </td>
 </tr>
@@ -281,47 +282,3 @@ Experience includes:
 
 ---
 
-# 🧩 How I Build Software
-
-```text
-                    ┌───────────────────┐
-                    │     PROBLEM       │
-                    └─────────┬─────────┘
-                              │
-                              ▼
-                    ┌───────────────────┐
-                    │    REQUIREMENTS   │
-                    │     ANALYSIS      │
-                    └─────────┬─────────┘
-                              │
-                              ▼
-                    ┌───────────────────┐
-                    │    ARCHITECTURE   │
-                    │      DESIGN       │
-                    └─────────┬─────────┘
-                              │
-                              ▼
-                    ┌───────────────────┐
-                    │ TECHNOLOGY STACK  │
-                    │     SELECTION     │
-                    └─────────┬─────────┘
-                              │
-                              ▼
-                    ┌───────────────────┐
-                    │    DEVELOPMENT    │
-                    └─────────┬─────────┘
-                              │
-                              ▼
-                    ┌───────────────────┐
-                    │      TESTING      │
-                    └─────────┬─────────┘
-                              │
-                              ▼
-                    ┌───────────────────┐
-                    │     DEPLOYMENT    │
-                    └─────────┬─────────┘
-                              │
-                              ▼
-                    ┌───────────────────┐
-                    │ SCALE & OPTIMIZE  │
-                    └───────────────────┘
