@@ -18,7 +18,7 @@ choosing the right technologies and developing scalable solutions.
 <a href="https://eduself.uz">
   <img src="https://img.shields.io/badge/EduSelf-5B5BF7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-<a href="https://t.me/Sarvar-Rashitov>
+<a href="https://t.me/Sarvar_Rashitov>
   <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
@@ -117,7 +117,7 @@ to a single stack.
 
 AI-powered education ecosystem focused on adaptive learning, gamification and personalized education.
 
-**Role:** Backend Developer
+**Role:** Founder & Backend Developer
 
 **Stack:** Python · Django · PostgreSQL · Redis · Celery · AI/LLM · REST APIs · Payments · Cloud
 
@@ -133,7 +133,7 @@ Software Development & Technology Company
 
 A software technology company focused on building digital products, AI-powered solutions, automation systems and custom software for businesses.
 
-**Role**: Founder & Backend Developer
+**Role**: Backend Developer
 
 **Focus**: Software Development · AI Solutions · Backend Systems · APIs · Automation · Cloud
 </td>
