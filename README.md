@@ -9,16 +9,16 @@ choosing the right technologies and developing scalable solutions.
 
 <br/>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/sarvar-rashitov">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/sarvar-rashitov">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://eduself.uz">
   <img src="https://img.shields.io/badge/EduSelf-5B5BF7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-<a href="https://t.me/YOUR_TELEGRAM">
+<a href="https://t.me/Sarvar-Rashitov>
   <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
@@ -158,7 +158,7 @@ AI-driven platform for managing income, expenses and financial insights using na
 
 <td width="50%" valign="top">
 
-###🏛️ Qrtifact
+### 🏛️ Qrtifact
 
 Digital Tourism & Historical Heritage Platform
 
