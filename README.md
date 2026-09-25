@@ -103,99 +103,57 @@ scalability, budget and long-term goals rather than limiting development
 to a single stack.
 
 ---
-
 # 🚀 Featured Projects
 
-## 🎓 EduSelf
+### 🎓 EduSelf
 
 **AI-powered adaptive education platform**
 
 🌐 https://eduself.uz
 
-EduSelf is an education technology ecosystem built around
-AI, adaptive learning and gamification.
+An AI-powered education ecosystem focused on adaptive learning,
+gamification and personalized education.
 
-The platform consists of **8 products** covering different
-parts of the education ecosystem.
-
-My role:
-
-**Backend Developer**
-
-Main areas:
-
-- Django backend
-- PostgreSQL
-- Redis
-- Celery
-- AI integrations
-- REST APIs
-- Authentication & authorization
-- Payment systems
-- Cloud deployment
-- Scalable architecture
-- AI-powered educational features
+**Role:** Backend Developer
+**Stack:** Python · Django · PostgreSQL · Redis · Celery · AI/LLM · REST APIs · Payments · Cloud
 
 ---
 
-## 🧪 Testium
+### 🧪 Testium
 
 **AI-powered assessment & mock examination platform**
 
 🌐 https://testium.uz
 
-A platform focused on online assessment, mock examinations
-and AI-powered evaluation.
+An online assessment platform for mock exams, automated evaluation
+and AI-powered learning analytics.
 
-My role:
-
-**Backend Developer**
-
-Technologies include:
-
-- Python
-- Django
-- PostgreSQL
-- REST APIs
-- AI integrations
-- Telegram integrations
-- Payment systems
-- PWA architecture
+**Role:** Backend Developer
+**Stack:** Python · Django · PostgreSQL · REST APIs · AI/LLM · Telegram API · Payments · PWA
 
 ---
 
-## 💰 Sarf Finance
+### 💰 Sarf Finance
 
 **AI-powered personal finance platform**
 
-A financial technology project focused on helping users
-manage income, expenses and financial decisions using
-natural language and AI.
+An AI-driven financial platform that allows users to manage
+income, expenses and financial insights using natural language.
 
-My role:
-
-**Backend Developer**
-
-Focus areas:
-
-- AI / NLP
-- Financial data processing
-- Backend architecture
-- API development
-- Database design
-- AI-powered insights
+**Role:** Backend Developer
+**Stack:** Python · AI/NLP · Backend Architecture · APIs · PostgreSQL · Financial Data Processing
 
 ---
 
-## 🔗 Qrtifact
+### 🔗 Qrtifact
 
-A technology project where I worked as a:
+**Technology & software project**
 
-**Backend Developer**
+A software project focused on backend systems, APIs and
+production-oriented application development.
 
-Focused on backend development, APIs, database architecture
-and production-oriented application development.
-
+**Role:** Backend Developer
+**Focus:** Backend Architecture · APIs · Databases · Production Systems
 ---
 
 # 🏢 Professional Experience
