@@ -105,55 +105,72 @@ to a single stack.
 ---
 # 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🎓 EduSelf
 
 **AI-powered adaptive education platform**
 
 🌐 https://eduself.uz
 
-An AI-powered education ecosystem focused on adaptive learning,
-gamification and personalized education.
+AI-powered education ecosystem focused on adaptive learning, gamification and personalized education.
 
 **Role:** Backend Developer
+
 **Stack:** Python · Django · PostgreSQL · Redis · Celery · AI/LLM · REST APIs · Payments · Cloud
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ### 🧪 Testium
 
-**AI-powered assessment & mock examination platform**
+**AI-powered assessment platform**
 
 🌐 https://testium.uz
 
-An online assessment platform for mock exams, automated evaluation
-and AI-powered learning analytics.
+Online assessment platform for mock exams, AI evaluation and learning analytics.
 
 **Role:** Backend Developer
-**Stack:** Python · Django · PostgreSQL · REST APIs · AI/LLM · Telegram API · Payments · PWA
 
----
+**Stack:** Python · Django · PostgreSQL · REST APIs · AI/LLM · Telegram · Payments · PWA
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 💰 Sarf Finance
 
 **AI-powered personal finance platform**
 
-An AI-driven financial platform that allows users to manage
-income, expenses and financial insights using natural language.
+AI-driven platform for managing income, expenses and financial insights using natural language.
 
 **Role:** Backend Developer
-**Stack:** Python · AI/NLP · Backend Architecture · APIs · PostgreSQL · Financial Data Processing
 
----
+**Stack:** Python · AI/NLP · APIs · PostgreSQL · Backend Architecture
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🔗 Qrtifact
 
 **Technology & software project**
 
-A software project focused on backend systems, APIs and
-production-oriented application development.
+Software project focused on backend systems, APIs and production-oriented application development.
 
 **Role:** Backend Developer
+
 **Focus:** Backend Architecture · APIs · Databases · Production Systems
+
+</td>
+</tr>
+</table>
+
 ---
 
 # 🏢 Professional Experience
